@@ -1,5 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
-
+<h1 align="center">
+<a href="https://git.io/typing-svg"
+  <img align src = "https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!👋;+I'm+Riya+Gupta!;"/>
+</h1>
 - 👋 Hi, I’m @Riya922003, a dedicated Computer Science Engineering (CSE) student at VIT Bhopal, passionate about leveraging technology to create meaningful solutions.
 - 👀 I’m interested in living life to the fullest, exploring new opportunities, and embracing challenges that come my way, both academically and personally.
 - 🌱 I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey. I'm enthusiastic about acquiring new skills, staying abreast of the latest technological trends, and honing my problem-solving abilities.
