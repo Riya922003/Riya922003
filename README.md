@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?Riya922003=Riya922003"/>
 
 - 👋 Hi, I’m @Riya922003, a dedicated Computer Science Engineering (CSE) student at VIT Bhopal, passionate about leveraging technology to create meaningful solutions.
 - 👀 I’m interested in living life to the fullest, exploring new opportunities, and embracing challenges that come my way, both academically and personally.
