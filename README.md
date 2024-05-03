@@ -12,7 +12,7 @@
  <h3 align="center">Frameworks that I have worked on</h3>
     <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,anaconda,arduino,cpp,flask,figma,,flutter,java,mysql,opencv,react,sqlite," />
+          <img src="https://skillicons.dev/icons?i=anaconda,arduino,cpp,flask,figma,,flutter,java,mysql,opencv,react,sqlite," />
         </a>
     </p>
 
