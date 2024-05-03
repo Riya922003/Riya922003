@@ -9,8 +9,12 @@
 <h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
  <h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
 </div>
-
-
+ <h3 align="center">Frameworks that I have worked on</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,anaconda,arduino,cpp,flask,figma,,flutter,java,mysql,opencv,react,sqlite," />
+        </a>
+    </p>
 
 
 
