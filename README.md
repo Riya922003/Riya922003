@@ -51,7 +51,22 @@
 </div>
 
 <div align="center"><h1><b>🔥Github streak stats</b></h1>
-    <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=react&border_radius=10"></img>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=react&border_radius=10"></img>
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=react&border_radius=10"
+    <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=light&border_radius=10"></img>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=light&border_radius=10"></img>
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=light&border_radius=10"
 </div>
+
+<div align="center"><h3><b>Contact me on</b></h3>
+     <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
+     <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+     <a href="https://www.arduino.cc/en/Guide/Introduction">
+        <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+</div>
+<h3 align="center">
+<img align src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=shoot+me+message+on+linkedin!;+drop+me+a+star;"/>
+</h3>
