@@ -50,4 +50,8 @@
 <img src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.gif">
 </div>
 
-
+<div align="center"><h1><b>🔥Github streak stats</b></h1>
+    <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=react&border_radius=10"></img>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=react&border_radius=10"></img>
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=react&border_radius=10"
+</div>
