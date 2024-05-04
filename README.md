@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-        <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
 
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
     <h1 align="center">
     <img align src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!👋;+I'm+Riya+Gupta!;"/>
     </h1>
@@ -58,7 +51,4 @@
     <img src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.gif">
 </div>
 
-</body>
-</html>
 
-,arduino,cpp,flask,figma,flutter,java,mysql,opencv,react,sqlite,
