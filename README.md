@@ -2,8 +2,8 @@
 <h1 align="center">
 <img align src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Coders!👋;+I'm+Riya+Gupta!;"/>
 </h1>
-<h3 align="center"> A dedicated Computer Science Engineering student</h3>
-<div align="center">
+<h3> A dedicated Computer Science Engineering student</h3>
+<div >
 <h4>passionate about leveraging technology to create meaningful solutions.</h4>
 <h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
 <h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
@@ -58,16 +58,16 @@
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10"
 </div>
 
-<div align="center"><h3><b>Contact me on</b></h3>
+<div align="center"><h2><b>Contact me on</b></h2>
      <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img src="https://skillicons.dev/icons?i=twitter"/>
-    </a>
+        <img height=50 src="https://skillicons.dev/icons?i=twitter"/>
+    </a>&nbsp&nbsp
      <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
+        <img height=50 src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>&nbsp&nbsp
      <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
+        <img height=50 src="https://skillicons.dev/icons?i=instagram"/>
+    </a>&nbsp&nbsp
 </div>
 <h3 align="center">
 <img align src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=shoot+me+message+on+linkedin!;+drop+me+a+star;"/>
