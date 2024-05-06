@@ -47,7 +47,8 @@
 <div align="center">
 <h2>My Contributions</h2>
 <br/><br/><br/>
-<svg 'https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake2.svg'></svg>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Riya922003/Riya922003/output/github-contribution-grid-snake.svg"/>
+
 
 </div>
 
