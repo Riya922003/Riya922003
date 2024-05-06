@@ -47,7 +47,8 @@
 <div align="center">
 <h2>My Contributions</h2>
 <br/><br/><br/>
-<img src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.gif">
+<svg 'https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake2.svg'></svg>
+
 </div>
 
 <div align="center"><h1><b>🔥Github streak stats</b></h1>
