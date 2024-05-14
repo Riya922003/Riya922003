@@ -55,7 +55,8 @@
 <div align="center"><h1><b>🔥Github streak stats</b></h1>
     <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10"></img>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=dark&border_radius=10"></img>
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10"
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10"</img>
+    <img width=500  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
 </div>
 
 <div align="center"><h2><b>Contact me on</b></h2>
