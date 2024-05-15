@@ -44,13 +44,14 @@
         <img src="https://skillicons.dev/icons?i=sqlite"/>
     </a>
     </p>
-<div align="center">
-<h2>My Contributions</h2>
+
+## My contribution
+<div align=center>
 <br/><br/><br/>
-<img alt="snake eating my contributions" src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.svg"/>
-
-
+<img    alt="snake eating my contributions" src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.svg"/>
+<img width=900 height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Riya922003&theme=high-contrast&area=true&hide_border=true)"></img>
 </div>
+
 
 <div align="center"><h1><b>🔥Github streak stats</b></h1>
     <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10"></img>
