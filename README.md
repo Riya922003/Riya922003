@@ -71,6 +71,5 @@
         <img height=50 src="https://skillicons.dev/icons?i=instagram"/>
     </a>&nbsp&nbsp
 </div>
-<h3 align="center">
-<img align src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=shoot+me+message+on+linkedin!;+drop+me+a+star;"/>
-</h3>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
