@@ -8,6 +8,21 @@
 <h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
 <h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
 </div>
+    
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
 <h3 align="center">Frameworks that I have worked on</h3>
     <p align="center">
         <a href="https://docs.anaconda.com/free/anaconda/getting-started/hello-world/">
