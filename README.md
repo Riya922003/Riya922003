@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=500&lines=HEY+CODERS+;I+AM+RIYA;lets+connect"
+<img src="https://github.com/Riya922003/Riya922003/blob/main/assets/final.gif"
 </h1>
 <h3> A dedicated Computer Science Engineering student</h3>
 <div >
