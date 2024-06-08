@@ -1,13 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
-<h1 align="center">
-<img src="https://github.com/Riya922003/Riya922003/blob/main/assets/final.gif"
-</h1>
-<h3> A dedicated Computer Science Engineering student</h3>
-<div >
-<h4>passionate about leveraging technology to create meaningful solutions.</h4>
-<h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
-<h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
+<div align="center">
+    <img src="https://github.com/Riya922003/Riya922003/blob/main/assets/final.gif"
 </div>
+<div>
+    <div align=right>
+        <img height = 300 align=right src="https://github.com/Riya922003/Riya922003/blob/main/assets/connected.gif"/>
+    </div>
+    <div align=left>
+        <h3> A dedicated Computer Science Engineering student</h3>
+        <h4>passionate about leveraging technology to create meaningful solutions.</h4>
+        <h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
+        <h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
+    </div>
+</div>
+<br>
+<br>
+<br>
+<hr></hr>
+<div align=left>  
     
 ```dart
 // tools_I_use organized
@@ -23,6 +33,7 @@ class About extends Me {
   };
 }
 ```
+</div>
 <h3 align="center">Frameworks that I have worked on</h3>
     <p align="center">
         <a href="https://docs.anaconda.com/free/anaconda/getting-started/hello-world/">
