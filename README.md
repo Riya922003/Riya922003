@@ -87,15 +87,19 @@ class About extends Me {
 </div>
 
 <div align="center"><h2><b>Contact me on</b></h2>
-     <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img height=50 src="https://skillicons.dev/icons?i=twitter"/>
-    </a>&nbsp&nbsp
-     <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img height=50 src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>&nbsp&nbsp
-     <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img height=50 src="https://skillicons.dev/icons?i=instagram"/>
-    </a>&nbsp&nbsp
+    <a href="https://www.linkedin.com/in/riya-gupta-9b5947251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--blue" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/riyagupta20221" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
+    </a> 
+    <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/discord--blue" />
+    </a>
+    </a> 
+    <a href="https://leetcode.com/u/riyagupta4079/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode--blue" />
+    </a>
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
