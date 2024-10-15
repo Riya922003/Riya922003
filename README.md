@@ -101,5 +101,7 @@ class About extends Me {
     <img src="https://img.shields.io/badge/LeetCode--blue" />
     </a>
 </div>
-[![@Riya922003's Holopin board](https://holopin.io/api/user/board?user=Riya922003)](https://holopin.io/@riya922003)
+
+[![@riya922003's Holopin badges](https://holopin.me/riya922003](https://holopin.io/@riya922003)
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
