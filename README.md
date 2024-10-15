@@ -86,6 +86,8 @@ class About extends Me {
     <img width=500  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
 </div>
 
+<img src="https://holopin.me/riya922003"></img>
+
 <div align="center"><h2><b>Contact me on</b></h2>
     <a href="https://www.linkedin.com/in/riya-gupta-9b5947251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn--blue" />
@@ -102,6 +104,5 @@ class About extends Me {
     </a>
 </div>
 
-[![@riya922003's Holopin badges](https://holopin.me/riya922003](https://holopin.io/@riya922003)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
