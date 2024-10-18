@@ -73,17 +73,17 @@ class About extends Me {
 
 ## My contribution
 <div align=center>
-<br/><br/><br/>
+
 <img    alt="snake eating my contributions" src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.svg"/>
 <img width=900 height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Riya922003&theme=high-contrast&area=true&hide_border=true)"></img>
 </div>
 
 
 <div align="center"><h1><b>🔥Github streak stats</b></h1>
-    <img width=390 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10"></img>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=dark&border_radius=10"></img>
+    <img width=380 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10"></img>
+    <img width=380 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=dark&border_radius=10"></img>
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10"</img>
-    <img width=500  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
+    <img width=480  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
 </div>
 
 <img src="https://holopin.me/riya922003"></img>
