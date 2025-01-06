@@ -19,20 +19,29 @@
 <hr></hr>
 <div align=left>  
     
-```dart
-// tools_I_use organized
+## 🚀 Tech Universe
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Markdown" },
-    "Database" : { "mysql", "Sqlite" },
-    "Editors" : { "Vscode","IntelliJ IDEA", "pycharm" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git", "canva" }
-  };
+### ⚡ Core Powers
+```javascript
+const languages = ['JavaScript', 'Python', 'TypeScript', 'Java' ,'cpp'];
+const webTech = ['React', 'Node.js', 'Express', 'Next.js' , 'React-Native'];
+const databases = ['MongoDB', 'PostgreSQL', 'Appwrite' ];
+```
+
+### 🛸 Mission Control
+![VS Code](https://img.shields.io/badge/Mission_Control-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Time_Machine-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Cargo_Ship-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎨 Design Arsenal
+```python
+design_tools = {
+    "UI/UX": ["Figma", "Adobe XD"],
+    "Graphics": ["Photoshop", "Illustrator"],
+    "Prototyping": ["InVision", "Sketch"]
 }
 ```
+
 </div>
 <h3 align="center">Frameworks that I have worked on</h3>
     <p align="center">
@@ -86,7 +95,12 @@ class About extends Me {
     <img width=480  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
 </div>
 
-<img src="https://holopin.me/riya922003"></img>
+<details>
+<summary><h2>🏆 Holopin Badges Collection</h2></summary>
+<div align="center">
+    <img src="https://holopin.me/riya922003" alt="Holopin Badges"/>
+</div>
+</details>
 
 <div align="center"><h2><b>Contact me on</b></h2>
     <a href="https://www.linkedin.com/in/riya-gupta-9b5947251/" target="_blank">
