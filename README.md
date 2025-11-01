@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Riya922003/Riya922003/main/assets/front1.gif"/>
+    <img src="https://github.com/Riya922003/Riya922003/blob/main/front1.gif"/>
 </div>
 <div>
     <div align=right>
@@ -88,11 +88,34 @@ design_tools = {
 </div>
 
 
-<div align="center"><h1><b>🔥Github streak stats</b></h1>
-    <img width=380 src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10"></img>
-    <img width=380 src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=dark&border_radius=10"></img>
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10"</img>
-    <img width=480  src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=4&theme=dark&border_radius=10" />
+<div align="center">
+  <h1><b>🔥 GitHub Stats</b></h1>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: start; gap: 20px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Riya922003&show_icons=true&account_private=true&theme=dark&border_radius=10" alt="Riya's GitHub Stats" width="48%" />
+    
+    <img src="https://streak-stats.demolab.com/?user=Riya922003&account_private=true&theme=dark&border_radius=10" alt="Riya's GitHub Streak" width="48%" />
+</div>
+
+<div style="display: flex; justify-content: center; align-items: start; gap: 20px; margin-top: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya922003&theme=dark" alt="Repos per Language" width="48%" />
+    
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya922003&theme=dark" alt="Most Commit Language" width="48%" />
+</div>
+
+<div style="display: flex; justify-content: center; align-items: start; gap: 20px; margin-top: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riya922003&theme=dark&utcOffset=8" alt="Productive Time" width="48%" />
+    
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riya922003&theme=dark" alt="GitHub Stats Summary" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10&layout=compact" alt="Top Languages"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=7&theme=dark&border_radius=10" alt="GitHub Trophies" />
 </div>
 
 <details>
