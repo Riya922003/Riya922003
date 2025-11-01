@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Riya922003.Riya922003"/>
 <div align="center">
-    <img src="./assets/front1.gif"/>
+    <img src="https://raw.githubusercontent.com/Riya922003/Riya922003/main/assets/front1.gif"/>
 </div>
 <div>
     <div align=right>
