@@ -28,7 +28,7 @@
 <div align=center>
 
 <img    alt="snake eating my contributions" src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.svg"/>
-<img width=900 height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Riya922003&theme=high-contrast&area=true&hide_border=true)"></img>
+<img width=900 height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=Riya922003&theme=react-dark&bg_color=1a1b27&color=a855f7&line=c084fc&point=e879f9&area=true&hide_border=true)"></img>
 </div>
 
 
