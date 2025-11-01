@@ -99,15 +99,12 @@ design_tools = {
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya922003&theme=dark" alt="Repos per Language" width="49%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya922003&theme=dark" alt="Most Commit Language" width="49%" />
 </p>
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riya922003&theme=dark&utcOffset=8" alt="Productive Time" width="49%" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riya922003&theme=dark" alt="GitHub Stats Summary" width="49%" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10&layout=compact" alt="Top Languages"/>
 </p>
 
 <div align="center">
@@ -118,12 +115,13 @@ design_tools = {
     <img src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=7&theme=dark&border_radius=10" alt="GitHub Trophies" />
 </p>
 
-<details>
-<summary><h2>🏆 Holopin Badges Collection</h2></summary>
+<div align="center">
+  <h1><b>🏆 Holopin Badges Collection</b></h1>
+</div>
+
 <div align="center">
     <img src="https://holopin.me/riya922003" alt="Holopin Badges"/>
 </div>
-</details>
 
 <div align="center"><h2><b>Contact me on</b></h2>
     <a href="https://www.linkedin.com/in/riya-gupta-9b5947251/" target="_blank">
