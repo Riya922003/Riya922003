@@ -99,7 +99,6 @@ design_tools = {
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riya922003&theme=dark" alt="Repos per Language" width="49%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riya922003&theme=dark" alt="Most Commit Language" width="49%" />
 </p>
 
 <p align="center">
@@ -110,6 +109,10 @@ design_tools = {
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya922003&langs_count=8&show_icons=true&account_private=true&theme=dark&border_radius=10&layout=compact" alt="Top Languages"/>
 </p>
+
+<div align="center">
+  <h1><b>My Github Trophys</b></h1>
+</div>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Riya922003&no-bg=true&column=7&theme=dark&border_radius=10" alt="GitHub Trophies" />
