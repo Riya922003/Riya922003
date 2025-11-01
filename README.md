@@ -20,47 +20,11 @@
 
 ## �️ My Tech Stack
 
-<details>
-  <summary><b>Languages</b></summary>
-  <br>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages"/>
-  </div>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,flutter,nodejs,express,flask,mongo,postgres,appwrite,mysql,sqlite,figma,xd,photoshop,illustrator,git,docker,vscode,anaconda,arduino,opencv" alt="My Tech Stack"/>
+</p>
 
-<details>
-  <summary><b>Frontend Development</b></summary>
-  <br>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter" alt="Frontend"/>
-  </div>
-</details>
 
-<details>
-  <summary><b>Backend & Databases</b></summary>
-  <br>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongo,postgres,appwrite,mysql,sqlite" alt="Backend & Databases"/>
-  </div>
-</details>
-
-<details>
-  <summary><b>Design & Prototyping</b></summary>
-  <br>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,invision,sketch" alt="Design"/>
-  </div>
-</details>
-
-<details>
-  <summary><b>Tools & Platforms</b></summary>
-  <br>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,anaconda,arduino,opencv" alt="Tools"/>
-  </div>
-</details>
-
-## My contribution
 <div align=center>
 
 <img    alt="snake eating my contributions" src="https://github.com/Riya922003/Riya922003/blob/output/github-contribution-grid-snake.svg"/>
