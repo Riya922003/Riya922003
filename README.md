@@ -7,10 +7,9 @@
         <img height = 300 align=right src="https://github.com/Riya922003/Riya922003/blob/main/assets/connected.gif"/>
     </div>
     <div align=left>
-        <h3> A dedicated Computer Science Engineering student</h3>
-        <h4>passionate about leveraging technology to create meaningful solutions.</h4>
-        <h4>👀exploring new opportunities, and embracing challenges that come my way, both academically and personally.</h4>
-        <h4>🌱I’m currently immersing myself in the intricate world of coding and software development as part of my learning journey</h4> 
+        <h3>Hey folks, welcome! If you stumbled across my profile, you've found my small corner of the tech universe.</h3>
+        <h4>I'm a final-year student and Full-Stack MERN Developer (mostly working on the backend) trying to build cool things and find my place.</h4>
+        <h4>I'm always looking for interesting projects, so I'm open to work and collaboration. If you like what you see, feel free to reach out!</h4>
     </div>
 </div>
 <br>
@@ -52,7 +51,7 @@
 </p>
 
 <div align="center">
-  <h1><b>My Github Trophys</b></h1>
+  <h1><b>My Github Trophies</b></h1>
 </div>
 
 <p align="center">
