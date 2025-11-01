@@ -17,68 +17,48 @@
 <br>
 <br>
 <hr></hr>
-<div align=left>  
-    
-## 🚀 Tech Universe
 
-### ⚡ Core Powers
-```javascript
-const languages = ['JavaScript', 'Python', 'TypeScript', 'Java' ,'cpp'];
-const webTech = ['React', 'Node.js', 'Express', 'Next.js' , 'React-Native'];
-const databases = ['MongoDB', 'PostgreSQL', 'Appwrite' ];
-```
+## �️ My Tech Stack
 
-### 🛸 Mission Control
-![VS Code](https://img.shields.io/badge/Mission_Control-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Time_Machine-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Cargo_Ship-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<details>
+  <summary><b>Languages</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages"/>
+  </div>
+</details>
 
-### 🎨 Design Arsenal
-```python
-design_tools = {
-    "UI/UX": ["Figma", "Adobe XD"],
-    "Graphics": ["Photoshop", "Illustrator"],
-    "Prototyping": ["InVision", "Sketch"]
-}
-```
+<details>
+  <summary><b>Frontend Development</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter" alt="Frontend"/>
+  </div>
+</details>
 
-</div>
-<h3 align="center">Frameworks that I have worked on</h3>
-    <p align="center">
-        <a href="https://docs.anaconda.com/free/anaconda/getting-started/hello-world/">
-        <img src="https://skillicons.dev/icons?i=anaconda"/>
-    </a>
-    <a href="https://www.arduino.cc/en/Guide/Introduction">
-        <img src="https://skillicons.dev/icons?i=arduino"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/">
-        <img src="https://skillicons.dev/icons?i=cpp"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/">
-        <img src="https://skillicons.dev/icons?i=flask"/>
-    </a>
-    <a href="https://www.figma.com/ui-design-tool/">
-        <img src="https://skillicons.dev/icons?i=figma"/>
-    </a>
-    <a href="https://flutter.dev/">
-        <img src="https://skillicons.dev/icons?i=flutter"/>
-    </a>
-    <a href="https://www.w3schools.com/java/">
-        <img src="https://skillicons.dev/icons?i=java"/>
-    </a>
-    <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
-    <a href="https://opencv.org/">
-        <img src="https://skillicons.dev/icons?i=opencv"/>
-    </a>
-    <a href="https://react.dev/">
-        <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href="https://www.sqlite.org/index.html">
-        <img src="https://skillicons.dev/icons?i=sqlite"/>
-    </a>
-    </p>
+<details>
+  <summary><b>Backend & Databases</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongo,postgres,appwrite,mysql,sqlite" alt="Backend & Databases"/>
+  </div>
+</details>
+
+<details>
+  <summary><b>Design & Prototyping</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,invision,sketch" alt="Design"/>
+  </div>
+</details>
+
+<details>
+  <summary><b>Tools & Platforms</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,anaconda,arduino,opencv" alt="Tools"/>
+  </div>
+</details>
 
 ## My contribution
 <div align=center>
