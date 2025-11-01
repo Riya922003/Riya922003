@@ -4,7 +4,7 @@
 </div>
 <div>
     <div align=right>
-        <img height = 300 align=right src="https://github.com/Riya922003/Riya922003/blob/main/assets/connected.gif"/>
+        <img height = 300 align=right src="https://github.com/Riya922003/Riya922003/blob/main/connect.gif"/>
     </div>
     <div align=left>
         <h3>Hey folks, welcome! If you stumbled across my profile, you've found my small corner of the tech universe.</h3>
